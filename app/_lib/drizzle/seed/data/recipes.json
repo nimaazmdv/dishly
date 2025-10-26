@@ -1,0 +1,717 @@
+[
+  {
+    "id": "193f715c-d0b1-475a-9afb-616c4d6bd1bf",
+    "title": "Classic Beef Lasagna",
+    "image": "/images/recipes/ClassicBeefLasagna.jpg",
+    "servings": 8,
+    "prepTime": 30,
+    "cookTime": 90,
+    "difficulty": "intermediate",
+    "isOfficial": true,
+    "authorId": "ce6fddce-5a3d-4e76-a6dd-586faaca67bd",
+    "ingredients": [
+      { "name": "Ground beef", "quantity": 1, "unit": "lb" },
+      { "name": "Olive oil", "quantity": 2, "unit": "tbsp" },
+      { "name": "Onion, chopped", "quantity": 1, "unit": null },
+      { "name": "Garlic, minced", "quantity": 3, "unit": "cloves" },
+      { "name": "Tomato sauce", "quantity": 24, "unit": "oz" },
+      { "name": "Tomato paste", "quantity": 2, "unit": "tbsp" },
+      { "name": "Dried basil", "quantity": 1, "unit": "tsp" },
+      { "name": "Dried oregano", "quantity": 1, "unit": "tsp" },
+      { "name": "Lasagna noodles", "quantity": 12, "unit": null },
+      { "name": "Ricotta cheese", "quantity": 15, "unit": "oz" },
+      { "name": "Egg", "quantity": 1, "unit": null },
+      { "name": "Mozzarella cheese, shredded", "quantity": 3, "unit": "cups" },
+      { "name": "Parmesan cheese, grated", "quantity": 0.5, "unit": "cup" },
+      { "name": "Salt", "quantity": null, "unit": "to taste" },
+      { "name": "Black pepper", "quantity": null, "unit": "to taste" }
+    ],
+    "steps": [
+      "Preheat oven to 375°F (190°C).",
+      "Heat olive oil in a large skillet. Add onion and garlic; cook until fragrant.",
+      "Add ground beef and cook until browned. Drain excess fat.",
+      "Stir in tomato sauce, tomato paste, basil, oregano, salt, and pepper. Simmer for 20 minutes.",
+      "Meanwhile, boil lasagna noodles until al dente, then drain.",
+      "In a bowl, combine ricotta cheese, egg, and a pinch of salt.",
+      "Spread a thin layer of meat sauce in a 9x13-inch baking dish. Layer noodles, ricotta mixture, mozzarella, and sauce. Repeat layers and finish with sauce and cheeses on top.",
+      "Cover with foil and bake for 25 minutes. Remove foil and bake 20 minutes more until bubbly.",
+      "Let rest 10 minutes before serving."
+    ]
+  },
+  {
+    "id": "ff326e25-7dc6-480f-8029-38ccfd77e0ce",
+    "title": "Garlic Butter Shrimp Scampi",
+    "image": "/images/recipes/GarlicButterShrimpScampi.jpg",
+    "servings": 4,
+    "prepTime": 10,
+    "cookTime": 15,
+    "difficulty": "easy",
+    "isOfficial": true,
+    "authorId": "ce6fddce-5a3d-4e76-a6dd-586faaca67bd",
+    "ingredients": [
+      {
+        "name": "Large shrimp, peeled and deveined",
+        "quantity": 1,
+        "unit": "lb"
+      },
+      { "name": "Butter", "quantity": 4, "unit": "tbsp" },
+      { "name": "Olive oil", "quantity": 2, "unit": "tbsp" },
+      { "name": "Garlic, minced", "quantity": 4, "unit": "cloves" },
+      { "name": "Lemon juice", "quantity": 2, "unit": "tbsp" },
+      { "name": "White wine", "quantity": 0.25, "unit": "cup" },
+      { "name": "Parsley, chopped", "quantity": 2, "unit": "tbsp" },
+      { "name": "Red pepper flakes", "quantity": 0.25, "unit": "tsp" },
+      { "name": "Salt", "quantity": null, "unit": "to taste" },
+      { "name": "Black pepper", "quantity": null, "unit": "to taste" }
+    ],
+    "steps": [
+      "Heat olive oil and butter in a skillet over medium heat.",
+      "Add garlic and cook for 1 minute until fragrant.",
+      "Add shrimp, season with salt and pepper, and cook 1–2 minutes per side until pink.",
+      "Pour in wine and lemon juice, bringing to a simmer.",
+      "Sprinkle with parsley and red pepper flakes, toss, and serve immediately with pasta or bread."
+    ]
+  },
+  {
+    "id": "f33ede1e-1904-48c1-a3ee-329966acfaf1",
+    "title": "Creamy Mushroom Risotto",
+    "image": "/images/recipes/CreamyMushroomRisotto.jpeg",
+    "servings": 4,
+    "prepTime": 15,
+    "cookTime": 40,
+    "difficulty": "intermediate",
+    "isOfficial": true,
+    "authorId": "ce6fddce-5a3d-4e76-a6dd-586faaca67bd",
+    "ingredients": [
+      { "name": "Arborio rice", "quantity": 1.5, "unit": "cups" },
+      { "name": "Chicken broth", "quantity": 4, "unit": "cups" },
+      { "name": "Olive oil", "quantity": 2, "unit": "tbsp" },
+      { "name": "Butter", "quantity": 2, "unit": "tbsp" },
+      { "name": "Mushrooms, sliced", "quantity": 2, "unit": "cups" },
+      { "name": "Onion, finely chopped", "quantity": 1, "unit": null },
+      { "name": "Garlic, minced", "quantity": 2, "unit": "cloves" },
+      { "name": "White wine", "quantity": 0.5, "unit": "cup" },
+      { "name": "Parmesan cheese, grated", "quantity": 0.5, "unit": "cup" },
+      { "name": "Salt", "quantity": null, "unit": "to taste" },
+      { "name": "Black pepper", "quantity": null, "unit": "to taste" }
+    ],
+    "steps": [
+      "Warm broth in a saucepan and keep on low heat.",
+      "In another pan, heat olive oil and butter. Add onion and garlic; sauté until translucent.",
+      "Add mushrooms and cook until tender.",
+      "Stir in rice and cook until lightly toasted, 2 minutes.",
+      "Add wine and stir until absorbed.",
+      "Add broth one ladle at a time, stirring continuously, allowing each addition to absorb before adding more.",
+      "Continue until rice is creamy and al dente, 20–25 minutes.",
+      "Stir in Parmesan cheese, salt, and pepper. Serve warm."
+    ]
+  },
+  {
+    "id": "762b1934-c26d-4db8-bcc9-8823e1408132",
+    "title": "Thai Green Curry Chicken",
+    "image": "/images/recipes/ThaiGreenCurryChicken.jpg",
+    "servings": 4,
+    "prepTime": 20,
+    "cookTime": 25,
+    "difficulty": "intermediate",
+    "isOfficial": false,
+    "authorId": "14af3936-7daa-4e9b-98d2-a8ed22a965ba",
+    "ingredients": [
+      { "name": "Chicken breast, sliced", "quantity": 1, "unit": "lb" },
+      { "name": "Coconut milk", "quantity": 13.5, "unit": "oz" },
+      { "name": "Green curry paste", "quantity": 2, "unit": "tbsp" },
+      { "name": "Fish sauce", "quantity": 1, "unit": "tbsp" },
+      { "name": "Brown sugar", "quantity": 1, "unit": "tbsp" },
+      { "name": "Bell peppers, sliced", "quantity": 2, "unit": null },
+      { "name": "Bamboo shoots", "quantity": 1, "unit": "cup" },
+      { "name": "Thai basil leaves", "quantity": 0.5, "unit": "cup" },
+      { "name": "Lime juice", "quantity": 1, "unit": "tbsp" }
+    ],
+    "steps": [
+      "Heat a tablespoon of coconut milk in a pan over medium heat.",
+      "Add green curry paste and stir until fragrant.",
+      "Add chicken and stir until coated in curry paste.",
+      "Pour in remaining coconut milk and bring to a simmer.",
+      "Add fish sauce, brown sugar, bell peppers, and bamboo shoots.",
+      "Simmer until chicken is cooked through and vegetables are tender, about 10 minutes.",
+      "Stir in lime juice and basil leaves before serving with steamed jasmine rice."
+    ]
+  },
+  {
+    "id": "31dac337-1168-48fe-bb0e-1f4872c10325",
+    "title": "French Onion Soup",
+    "image": "/images/recipes/FrenchOnionSoup.jpg",
+    "servings": 6,
+    "prepTime": 15,
+    "cookTime": 60,
+    "difficulty": "intermediate",
+    "isOfficial": false,
+    "authorId": "14af3936-7daa-4e9b-98d2-a8ed22a965ba",
+    "ingredients": [
+      { "name": "Yellow onions, thinly sliced", "quantity": 6, "unit": null },
+      { "name": "Butter", "quantity": 3, "unit": "tbsp" },
+      { "name": "Olive oil", "quantity": 1, "unit": "tbsp" },
+      { "name": "Beef broth", "quantity": 6, "unit": "cups" },
+      { "name": "Dry white wine", "quantity": 0.5, "unit": "cup" },
+      { "name": "Flour", "quantity": 1, "unit": "tbsp" },
+      { "name": "French bread, sliced", "quantity": 6, "unit": null },
+      { "name": "Gruyère cheese, shredded", "quantity": 1, "unit": "cup" }
+    ],
+    "steps": [
+      "In a large pot, melt butter and oil over medium heat.",
+      "Add onions and cook, stirring often, until deep golden brown and caramelized, 30–40 minutes.",
+      "Stir in flour and cook 1 minute.",
+      "Add wine to deglaze the pan, scraping browned bits from the bottom.",
+      "Pour in broth and simmer for 20 minutes.",
+      "Ladle soup into oven-safe bowls, top with bread and cheese, then broil until cheese melts and bubbles."
+    ]
+  },
+  {
+    "id": "48a3887c-1bf8-40fc-aad4-5ce7fa4c33d5",
+    "title": "Vegetarian Chili",
+    "image": "/images/recipes/VegetarianChili.jpg",
+    "servings": 6,
+    "prepTime": 20,
+    "cookTime": 45,
+    "difficulty": "easy",
+    "isOfficial": false,
+    "authorId": "665a3823-1a40-4c4f-9076-3e0ccb6bf5ec",
+    "ingredients": [
+      { "name": "Olive oil", "quantity": 2, "unit": "tbsp" },
+      { "name": "Onion, chopped", "quantity": 1, "unit": null },
+      { "name": "Bell peppers, chopped", "quantity": 2, "unit": null },
+      { "name": "Garlic, minced", "quantity": 3, "unit": "cloves" },
+      { "name": "Crushed tomatoes", "quantity": 28, "unit": "oz" },
+      { "name": "Kidney beans, drained", "quantity": 15, "unit": "oz" },
+      { "name": "Black beans, drained", "quantity": 15, "unit": "oz" },
+      { "name": "Corn kernels", "quantity": 1, "unit": "cup" },
+      { "name": "Chili powder", "quantity": 2, "unit": "tbsp" },
+      { "name": "Cumin", "quantity": 1, "unit": "tsp" },
+      { "name": "Paprika", "quantity": 1, "unit": "tsp" },
+      { "name": "Salt", "quantity": null, "unit": "to taste" }
+    ],
+    "steps": [
+      "Heat olive oil in a large pot. Sauté onion, garlic, and peppers until softened.",
+      "Stir in chili powder, cumin, and paprika; cook for 1 minute.",
+      "Add tomatoes, beans, corn, and salt. Simmer uncovered for 30–40 minutes.",
+      "Serve hot with toppings like avocado, cheese, or cilantro."
+    ]
+  },
+  {
+    "id": "ff4f6cc2-70f4-4d61-9494-25ac2a076206",
+    "title": "Lemon Blueberry Muffins",
+    "image": "/images/recipes/LemonBlueberryMuffins.jpg",
+    "servings": 12,
+    "prepTime": 15,
+    "cookTime": 25,
+    "difficulty": "easy",
+    "isOfficial": false,
+    "authorId": "14af3936-7daa-4e9b-98d2-a8ed22a965ba",
+    "ingredients": [
+      { "name": "All-purpose flour", "quantity": 2, "unit": "cups" },
+      { "name": "Baking powder", "quantity": 2, "unit": "tsp" },
+      { "name": "Salt", "quantity": 0.25, "unit": "tsp" },
+      { "name": "Butter, melted", "quantity": 0.5, "unit": "cup" },
+      { "name": "Sugar", "quantity": 0.75, "unit": "cup" },
+      { "name": "Eggs", "quantity": 2, "unit": null },
+      { "name": "Milk", "quantity": 0.5, "unit": "cup" },
+      { "name": "Lemon zest", "quantity": 1, "unit": "tbsp" },
+      { "name": "Blueberries", "quantity": 1, "unit": "cup" }
+    ],
+    "steps": [
+      "Preheat oven to 375°F (190°C). Line a muffin tin with paper liners.",
+      "Whisk together flour, baking powder, and salt.",
+      "In another bowl, mix melted butter, sugar, eggs, milk, and lemon zest.",
+      "Combine wet and dry ingredients just until mixed, then fold in blueberries.",
+      "Divide batter evenly and bake 20–25 minutes until golden brown."
+    ]
+  },
+  {
+    "id": "4ffa6d14-c785-40ca-960c-1216486b36e3",
+    "title": "Spaghetti Carbonara",
+    "image": "/images/recipes/SpaghettiCarbonara.jpeg",
+    "servings": 4,
+    "prepTime": 10,
+    "cookTime": 20,
+    "difficulty": "intermediate",
+    "isOfficial": false,
+    "authorId": "14af3936-7daa-4e9b-98d2-a8ed22a965ba",
+    "ingredients": [
+      { "name": "Spaghetti", "quantity": 12, "unit": "oz" },
+      { "name": "Eggs", "quantity": 4, "unit": null },
+      { "name": "Parmesan cheese, grated", "quantity": 0.75, "unit": "cup" },
+      { "name": "Pancetta or bacon, diced", "quantity": 6, "unit": "oz" },
+      { "name": "Garlic, minced", "quantity": 2, "unit": "cloves" },
+      { "name": "Salt", "quantity": null, "unit": "to taste" },
+      { "name": "Black pepper", "quantity": null, "unit": "to taste" }
+    ],
+    "steps": [
+      "Cook spaghetti until al dente. Reserve 1/2 cup pasta water and drain.",
+      "Cook pancetta in a skillet until crisp; add garlic and cook briefly.",
+      "In a bowl, whisk eggs and Parmesan together.",
+      "Toss hot pasta with pancetta, then remove from heat.",
+      "Quickly stir in egg mixture, adding reserved pasta water until creamy.",
+      "Season with salt and pepper and serve immediately."
+    ]
+  },
+  {
+    "id": "8bd99a49-2821-4ac2-94bc-546b640229bb",
+    "title": "Honey Garlic Glazed Salmon",
+    "image": "/images/recipes/HoneyGarlicGlazedSalmon.webp",
+    "servings": 4,
+    "prepTime": 10,
+    "cookTime": 15,
+    "difficulty": "easy",
+    "isOfficial": false,
+    "authorId": "665a3823-1a40-4c4f-9076-3e0ccb6bf5ec",
+    "ingredients": [
+      { "name": "Salmon fillets", "quantity": 4, "unit": null },
+      { "name": "Honey", "quantity": 0.25, "unit": "cup" },
+      { "name": "Soy sauce", "quantity": 3, "unit": "tbsp" },
+      { "name": "Garlic, minced", "quantity": 3, "unit": "cloves" },
+      { "name": "Olive oil", "quantity": 1, "unit": "tbsp" },
+      { "name": "Lemon juice", "quantity": 1, "unit": "tbsp" }
+    ],
+    "steps": [
+      "Whisk honey, soy sauce, garlic, and lemon juice together.",
+      "Heat olive oil in a skillet and sear salmon 3–4 minutes per side.",
+      "Pour sauce over salmon and simmer until thickened and glazed.",
+      "Serve hot with rice or vegetables."
+    ]
+  },
+  {
+    "id": "bf45bbde-0207-4352-91f8-2815419ea956",
+    "title": "Classic Chicken Pot Pie",
+    "image": "/images/recipes/ClassicChickenPotPie.webp",
+    "servings": 6,
+    "prepTime": 30,
+    "cookTime": 45,
+    "difficulty": "intermediate",
+    "isOfficial": true,
+    "authorId": "ce6fddce-5a3d-4e76-a6dd-586faaca67bd",
+    "ingredients": [
+      { "name": "Chicken breast, cubed", "quantity": 2, "unit": "cups" },
+      { "name": "Butter", "quantity": 1, "unit": "cup" },
+      { "name": "Onion, chopped", "quantity": 1, "unit": null },
+      { "name": "Flour", "quantity": 0.5, "unit": "cup" },
+      { "name": "Chicken broth", "quantity": 2, "unit": "cups" },
+      { "name": "Milk", "quantity": 1, "unit": "cup" },
+      { "name": "Mixed vegetables", "quantity": 2, "unit": "cups" },
+      { "name": "Pie crusts", "quantity": 2, "unit": null },
+      { "name": "Salt and pepper", "quantity": null, "unit": "to taste" }
+    ],
+    "steps": [
+      "Preheat oven to 425°F (220°C).",
+      "Cook chicken in a skillet until no longer pink, set aside.",
+      "In a saucepan, melt butter and sauté onions until soft.",
+      "Stir in flour and cook 1 minute to form a roux.",
+      "Gradually whisk in broth and milk until smooth and thickened.",
+      "Add cooked chicken and vegetables; season with salt and pepper.",
+      "Line a pie dish with one crust, pour in filling, and top with second crust. Seal edges and cut slits for steam.",
+      "Bake 30–35 minutes until golden. Let cool slightly before serving."
+    ]
+  },
+  {
+    "id": "e369e2c6-0426-40b5-8f0c-7bdd54661916",
+    "title": "Chicken Tikka Masala",
+    "image": "/images/recipes/ChickenTikkaMasala.jpg",
+    "servings": 4,
+    "prepTime": 25,
+    "cookTime": 35,
+    "difficulty": "intermediate",
+    "isOfficial": true,
+    "authorId": "ce6fddce-5a3d-4e76-a6dd-586faaca67bd",
+    "ingredients": [
+      { "name": "Chicken thighs, cubed", "quantity": 1, "unit": "lb" },
+      { "name": "Yogurt", "quantity": 0.5, "unit": "cup" },
+      { "name": "Garam masala", "quantity": 2, "unit": "tsp" },
+      { "name": "Garlic, minced", "quantity": 3, "unit": "cloves" },
+      { "name": "Ginger, minced", "quantity": 1, "unit": "tbsp" },
+      { "name": "Tomato puree", "quantity": 15, "unit": "oz" },
+      { "name": "Heavy cream", "quantity": 0.75, "unit": "cup" },
+      { "name": "Cumin", "quantity": 1, "unit": "tsp" },
+      { "name": "Coriander", "quantity": 1, "unit": "tsp" },
+      { "name": "Turmeric", "quantity": 0.5, "unit": "tsp" },
+      { "name": "Salt", "quantity": null, "unit": "to taste" }
+    ],
+    "steps": [
+      "Combine chicken, yogurt, garlic, ginger, and spices in a bowl; marinate for at least 30 minutes.",
+      "Grill or sauté chicken until cooked through; set aside.",
+      "In a pan, heat oil and cook onion, garlic, and spices until aromatic.",
+      "Stir in tomato puree and simmer for 10 minutes.",
+      "Add heavy cream and chicken pieces, simmer 10 minutes until sauce thickens.",
+      "Serve with basmati rice or naan bread."
+    ]
+  },
+  {
+    "id": "ffdee4cd-d280-4bb3-bf7c-f6984ca5b975",
+    "title": "Greek Salad",
+    "image": "/images/recipes/GreekSalad.jpg",
+    "servings": 4,
+    "prepTime": 15,
+    "cookTime": 0,
+    "difficulty": "easy",
+    "isOfficial": false,
+    "authorId": "338787b3-7e34-4ec5-b7f1-6984d02bacac",
+    "ingredients": [
+      { "name": "Cucumber, sliced", "quantity": 1, "unit": null },
+      { "name": "Cherry tomatoes, halved", "quantity": 2, "unit": "cups" },
+      { "name": "Red onion, thinly sliced", "quantity": 0.5, "unit": null },
+      { "name": "Kalamata olives", "quantity": 0.5, "unit": "cup" },
+      { "name": "Feta cheese, crumbled", "quantity": 0.5, "unit": "cup" },
+      { "name": "Olive oil", "quantity": 3, "unit": "tbsp" },
+      { "name": "Lemon juice", "quantity": 1, "unit": "tbsp" },
+      { "name": "Dried oregano", "quantity": 1, "unit": "tsp" }
+    ],
+    "steps": [
+      "Combine cucumber, tomatoes, onion, olives, and feta in a bowl.",
+      "Whisk olive oil, lemon juice, oregano, salt, and pepper together.",
+      "Pour dressing over salad and toss gently. Serve chilled."
+    ]
+  },
+  {
+    "id": "bb58b2d5-12b2-4384-936b-3eec1f306f57",
+    "title": "Butter Chicken (Murgh Makhani)",
+    "image": "/images/recipes/ButterChicken.webp",
+    "servings": 4,
+    "prepTime": 20,
+    "cookTime": 40,
+    "difficulty": "intermediate",
+    "isOfficial": false,
+    "authorId": "338787b3-7e34-4ec5-b7f1-6984d02bacac",
+    "ingredients": [
+      { "name": "Chicken breast, cubed", "quantity": 1, "unit": "lb" },
+      { "name": "Butter", "quantity": 3, "unit": "tbsp" },
+      { "name": "Tomato puree", "quantity": 1, "unit": "cup" },
+      { "name": "Heavy cream", "quantity": 0.5, "unit": "cup" },
+      { "name": "Ginger garlic paste", "quantity": 1, "unit": "tbsp" },
+      { "name": "Garam masala", "quantity": 1, "unit": "tsp" },
+      { "name": "Chili powder", "quantity": 1, "unit": "tsp" },
+      { "name": "Cumin", "quantity": 0.5, "unit": "tsp" },
+      { "name": "Salt", "quantity": null, "unit": "to taste" }
+    ],
+    "steps": [
+      "Melt butter in a pan and sauté ginger garlic paste until aromatic.",
+      "Add tomato puree and spices; simmer 10 minutes.",
+      "Add chicken pieces and cook until tender.",
+      "Stir in cream and simmer until thickened.",
+      "Serve hot with naan or rice."
+    ]
+  },
+  {
+    "id": "95375af5-cd47-4f7f-8ccb-a46aef0afe8b",
+    "title": "Banana Bread",
+    "image": "/images/recipes/BananaBread.jpg",
+    "servings": 8,
+    "prepTime": 15,
+    "cookTime": 60,
+    "difficulty": "easy",
+    "isOfficial": false,
+    "authorId": "14af3936-7daa-4e9b-98d2-a8ed22a965ba",
+    "ingredients": [
+      { "name": "Ripe bananas, mashed", "quantity": 3, "unit": null },
+      { "name": "Flour", "quantity": 2, "unit": "cups" },
+      { "name": "Sugar", "quantity": 1, "unit": "cup" },
+      { "name": "Eggs", "quantity": 2, "unit": null },
+      { "name": "Butter, melted", "quantity": 0.5, "unit": "cup" },
+      { "name": "Baking soda", "quantity": 1, "unit": "tsp" },
+      { "name": "Salt", "quantity": 0.25, "unit": "tsp" },
+      { "name": "Vanilla extract", "quantity": 1, "unit": "tsp" }
+    ],
+    "steps": [
+      "Preheat oven to 350°F (175°C). Grease a loaf pan.",
+      "Mash bananas in a bowl and mix with melted butter.",
+      "Stir in sugar, eggs, and vanilla.",
+      "Add flour, baking soda, and salt. Mix until just combined.",
+      "Pour batter into pan and bake 55–60 minutes until golden brown.",
+      "Cool before slicing."
+    ]
+  },
+  {
+    "id": "d5101160-1763-46ec-b2da-2b655e2f529a",
+    "title": "Classic Chocolate Chip Cookies",
+    "image": "/images/recipes/ClassicChocolateChipCookies.webp",
+    "servings": 24,
+    "prepTime": 20,
+    "cookTime": 12,
+    "difficulty": "easy",
+    "isOfficial": true,
+    "authorId": "ce6fddce-5a3d-4e76-a6dd-586faaca67bd",
+    "ingredients": [
+      { "name": "All-purpose flour", "quantity": 2.25, "unit": "cups" },
+      { "name": "Baking soda", "quantity": 1, "unit": "tsp" },
+      { "name": "Salt", "quantity": 0.5, "unit": "tsp" },
+      { "name": "Unsalted butter, softened", "quantity": 1, "unit": "cup" },
+      { "name": "Granulated sugar", "quantity": 0.75, "unit": "cup" },
+      { "name": "Brown sugar", "quantity": 0.75, "unit": "cup" },
+      { "name": "Vanilla extract", "quantity": 1, "unit": "tsp" },
+      { "name": "Eggs", "quantity": 2, "unit": null },
+      { "name": "Chocolate chips", "quantity": 2, "unit": "cups" }
+    ],
+    "steps": [
+      "Preheat oven to 375°F (190°C). Line baking sheets with parchment paper.",
+      "In a medium bowl, combine flour, baking soda, and salt.",
+      "In a large bowl, beat butter, granulated sugar, brown sugar, and vanilla until creamy.",
+      "Add eggs one at a time, beating well after each addition.",
+      "Gradually beat in flour mixture.",
+      "Stir in chocolate chips.",
+      "Drop by rounded tablespoon onto baking sheets.",
+      "Bake 10–12 minutes until lightly golden. Cool on wire racks."
+    ]
+  },
+  {
+    "id": "ef1f77a1-e1ba-4208-ae0c-6a184e0ac632",
+    "title": "Strawberry Smoothie",
+    "image": "/images/recipes/StrawberrySmoothie.jpg",
+    "servings": 2,
+    "prepTime": 5,
+    "cookTime": 0,
+    "difficulty": "easy",
+    "isOfficial": true,
+    "authorId": "ce6fddce-5a3d-4e76-a6dd-586faaca67bd",
+    "ingredients": [
+      { "name": "Fresh strawberries, hulled", "quantity": 2, "unit": "cups" },
+      { "name": "Banana", "quantity": 1, "unit": null },
+      { "name": "Greek yogurt", "quantity": 0.5, "unit": "cup" },
+      { "name": "Milk", "quantity": 0.5, "unit": "cup" },
+      { "name": "Honey", "quantity": 1, "unit": "tbsp" },
+      { "name": "Ice cubes", "quantity": 0.5, "unit": "cup" }
+    ],
+    "steps": [
+      "Place strawberries, banana, yogurt, milk, honey, and ice cubes into a blender.",
+      "Blend on high speed until smooth.",
+      "Taste and adjust sweetness with extra honey if needed.",
+      "Pour into glasses and serve immediately."
+    ]
+  },
+  {
+    "id": "3c39e389-b4cf-4faa-926c-796d77de9027",
+    "title": "Mango Lassi",
+    "image": "/images/recipes/MangoLassi.jpg",
+    "servings": 2,
+    "prepTime": 5,
+    "cookTime": 0,
+    "difficulty": "easy",
+    "isOfficial": false,
+    "authorId": "665a3823-1a40-4c4f-9076-3e0ccb6bf5ec",
+    "ingredients": [
+      {
+        "name": "Ripe mango, peeled and chopped",
+        "quantity": 1,
+        "unit": null
+      },
+      { "name": "Plain yogurt", "quantity": 1, "unit": "cup" },
+      { "name": "Milk", "quantity": 0.25, "unit": "cup" },
+      { "name": "Sugar", "quantity": 1, "unit": "tbsp" },
+      { "name": "Cardamom powder", "quantity": 0.25, "unit": "tsp" },
+      { "name": "Ice cubes", "quantity": 0.5, "unit": "cup" }
+    ],
+    "steps": [
+      "Add chopped mango, yogurt, milk, sugar, cardamom, and ice cubes into a blender.",
+      "Blend until smooth and creamy.",
+      "Taste and adjust sweetness if desired.",
+      "Serve chilled with a sprinkle of cardamom on top."
+    ]
+  },
+  {
+    "id": "2f5c0664-e860-423d-b55c-035375236175",
+    "title": "Classic Lemonade",
+    "image": "/images/recipes/ClassicLemonade.webp",
+    "servings": 4,
+    "prepTime": 10,
+    "cookTime": 0,
+    "difficulty": "easy",
+    "isOfficial": false,
+    "authorId": "338787b3-7e34-4ec5-b7f1-6984d02bacac",
+    "ingredients": [
+      { "name": "Fresh lemon juice", "quantity": 1, "unit": "cup" },
+      { "name": "Sugar", "quantity": 0.75, "unit": "cup" },
+      { "name": "Water", "quantity": 4, "unit": "cups" },
+      { "name": "Ice cubes", "quantity": 1, "unit": "cup" },
+      { "name": "Lemon slices", "quantity": 4, "unit": null }
+    ],
+    "steps": [
+      "In a small saucepan, combine sugar and 1 cup water. Heat until sugar dissolves to make simple syrup.",
+      "In a pitcher, mix lemon juice, simple syrup, and remaining 3 cups cold water.",
+      "Stir well and add ice cubes.",
+      "Garnish with lemon slices and serve chilled."
+    ]
+  },
+  {
+    "id": "452db9f8-e83d-4fd9-b2a4-c79be7b69a9b",
+    "title": "Chocolate Milkshake",
+    "image": "/images/recipes/ChocolateMilkshake.webp",
+    "servings": 2,
+    "prepTime": 5,
+    "cookTime": 0,
+    "difficulty": "easy",
+    "isOfficial": true,
+    "authorId": "ce6fddce-5a3d-4e76-a6dd-586faaca67bd",
+    "ingredients": [
+      { "name": "Chocolate ice cream", "quantity": 3, "unit": "cups" },
+      { "name": "Milk", "quantity": 1, "unit": "cup" },
+      { "name": "Chocolate syrup", "quantity": 2, "unit": "tbsp" },
+      { "name": "Whipped cream", "quantity": 0.25, "unit": "cup" }
+    ],
+    "steps": [
+      "Place chocolate ice cream, milk, and chocolate syrup into a blender.",
+      "Blend until smooth and creamy.",
+      "Pour into glasses.",
+      "Top with whipped cream and drizzle additional chocolate syrup."
+    ]
+  },
+  {
+    "id": "3554639c-51f0-4fe5-8eec-e796ba725a1e",
+    "title": "Vanilla Panna Cotta",
+    "image": "/images/recipes/VanillaPannaCotta.jpg",
+    "servings": 4,
+    "prepTime": 15,
+    "cookTime": 10,
+    "difficulty": "intermediate",
+    "isOfficial": true,
+    "authorId": "ce6fddce-5a3d-4e76-a6dd-586faaca67bd",
+    "ingredients": [
+      { "name": "Heavy cream", "quantity": 2, "unit": "cups" },
+      { "name": "Sugar", "quantity": 0.5, "unit": "cup" },
+      {
+        "name": "Vanilla bean, split and seeds scraped",
+        "quantity": 1,
+        "unit": null
+      },
+      { "name": "Gelatin powder", "quantity": 1, "unit": "tbsp" },
+      { "name": "Cold water", "quantity": 3, "unit": "tbsp" }
+    ],
+    "steps": [
+      "Sprinkle gelatin over cold water and let bloom for 5 minutes.",
+      "In a saucepan, combine cream, sugar, and vanilla seeds and pod. Heat until sugar dissolves and mixture is hot but not boiling.",
+      "Remove from heat and stir in bloomed gelatin until fully dissolved.",
+      "Remove vanilla pod. Pour mixture into serving glasses.",
+      "Refrigerate at least 4 hours until set."
+    ]
+  },
+  {
+    "id": "4535a14e-a997-43b6-a706-ac927071ad15",
+    "title": "Iced Caramel Latte",
+    "image": "/images/recipes/IcedCaramelLatte.jpg",
+    "servings": 2,
+    "prepTime": 5,
+    "cookTime": 5,
+    "difficulty": "easy",
+    "isOfficial": true,
+    "authorId": "ce6fddce-5a3d-4e76-a6dd-586faaca67bd",
+    "ingredients": [
+      { "name": "Espresso", "quantity": 2, "unit": "shots" },
+      { "name": "Milk", "quantity": 1, "unit": "cup" },
+      { "name": "Caramel syrup", "quantity": 2, "unit": "tbsp" },
+      { "name": "Ice cubes", "quantity": 1, "unit": "cup" },
+      { "name": "Whipped cream", "quantity": 0.25, "unit": "cup" }
+    ],
+    "steps": [
+      "Brew 2 shots of espresso.",
+      "In a glass, combine espresso and caramel syrup. Stir well.",
+      "Add ice cubes, then pour milk over the ice.",
+      "Top with whipped cream and drizzle extra caramel syrup."
+    ]
+  },
+  {
+    "id": "d1c832a7-baa1-4670-8ec7-dc8ec29b7d7e",
+    "title": "Tiramisu Cups",
+    "image": "/images/recipes/TiramisuCups.webp",
+    "servings": 4,
+    "prepTime": 20,
+    "cookTime": 0,
+    "difficulty": "intermediate",
+    "isOfficial": false,
+    "authorId": "14af3936-7daa-4e9b-98d2-a8ed22a965ba",
+    "ingredients": [
+      { "name": "Mascarpone cheese", "quantity": 1, "unit": "cup" },
+      { "name": "Heavy cream", "quantity": 0.5, "unit": "cup" },
+      { "name": "Sugar", "quantity": 0.25, "unit": "cup" },
+      { "name": "Espresso, cooled", "quantity": 0.5, "unit": "cup" },
+      { "name": "Ladyfinger biscuits", "quantity": 8, "unit": null },
+      { "name": "Cocoa powder", "quantity": 1, "unit": "tbsp" }
+    ],
+    "steps": [
+      "Whip heavy cream with sugar until soft peaks form.",
+      "Fold in mascarpone gently until smooth.",
+      "Dip ladyfingers briefly into espresso and layer them in cups.",
+      "Spread a layer of mascarpone mixture over the ladyfingers.",
+      "Repeat layers and finish with mascarpone on top.",
+      "Dust with cocoa powder before serving. Refrigerate 2 hours."
+    ]
+  },
+  {
+    "id": "dbb2a914-73cd-4e9f-a76b-f79b13b65be4",
+    "title": "Peach Iced Tea",
+    "image": "/images/recipes/PeachIcedTea.png",
+    "servings": 4,
+    "prepTime": 10,
+    "cookTime": 5,
+    "difficulty": "easy",
+    "isOfficial": false,
+    "authorId": "14af3936-7daa-4e9b-98d2-a8ed22a965ba",
+    "ingredients": [
+      { "name": "Black tea bags", "quantity": 4, "unit": null },
+      { "name": "Water", "quantity": 4, "unit": "cups" },
+      { "name": "Peach nectar", "quantity": 1, "unit": "cup" },
+      { "name": "Sugar", "quantity": 2, "unit": "tbsp" },
+      { "name": "Ice cubes", "quantity": 1, "unit": "cup" },
+      { "name": "Peach slices", "quantity": 2, "unit": null }
+    ],
+    "steps": [
+      "Boil water and steep tea bags for 5 minutes. Remove tea bags.",
+      "Stir in sugar until dissolved. Let tea cool to room temperature.",
+      "Mix tea with peach nectar and pour over ice in glasses.",
+      "Garnish with fresh peach slices."
+    ]
+  },
+  {
+    "id": "256043d6-0eb1-4906-ac37-42459ca11653",
+    "title": "Banana Milkshake",
+    "image": "/images/recipes/BananaMilkshake.jpg",
+    "servings": 2,
+    "prepTime": 5,
+    "cookTime": 0,
+    "difficulty": "easy",
+    "isOfficial": true,
+    "authorId": "ce6fddce-5a3d-4e76-a6dd-586faaca67bd",
+    "ingredients": [
+      { "name": "Bananas, sliced", "quantity": 2, "unit": null },
+      { "name": "Milk", "quantity": 1, "unit": "cup" },
+      { "name": "Vanilla ice cream", "quantity": 2, "unit": "cups" },
+      { "name": "Honey", "quantity": 1, "unit": "tbsp" },
+      { "name": "Whipped cream", "quantity": 0.25, "unit": "cup" }
+    ],
+    "steps": [
+      "Place bananas, milk, ice cream, and honey in a blender.",
+      "Blend until smooth.",
+      "Pour into glasses and top with whipped cream."
+    ]
+  },
+  {
+    "id": "f5c985b9-2352-448a-b689-280312831fc4",
+    "title": "No-Bake Cheesecake",
+    "image": "/images/recipes/NoBakeCheesecake.jpg",
+    "servings": 8,
+    "prepTime": 20,
+    "cookTime": 0,
+    "difficulty": "intermediate",
+    "isOfficial": true,
+    "authorId": "ce6fddce-5a3d-4e76-a6dd-586faaca67bd",
+    "ingredients": [
+      { "name": "Graham cracker crumbs", "quantity": 1.5, "unit": "cups" },
+      { "name": "Unsalted butter, melted", "quantity": 0.5, "unit": "cup" },
+      { "name": "Cream cheese, softened", "quantity": 2, "unit": "cups" },
+      { "name": "Sugar", "quantity": 0.75, "unit": "cup" },
+      { "name": "Vanilla extract", "quantity": 1, "unit": "tsp" },
+      { "name": "Heavy cream", "quantity": 1, "unit": "cup" }
+    ],
+    "steps": [
+      "Mix graham cracker crumbs and melted butter, then press into a springform pan to form the crust.",
+      "In a bowl, beat cream cheese, sugar, and vanilla until smooth.",
+      "Whip heavy cream until stiff peaks form, then fold into cream cheese mixture.",
+      "Spread mixture over crust and smooth top.",
+      "Refrigerate at least 4 hours before serving."
+    ]
+  }
+]

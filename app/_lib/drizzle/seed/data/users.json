@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ce6fddce-5a3d-4e76-a6dd-586faaca67bd",
+    "name": "Dishly Chef",
+    "email": "admin@dishly.com",
+    "image": null
+  },
+  {
+    "id": "14af3936-7daa-4e9b-98d2-a8ed22a965ba",
+    "name": "Nora Bennett",
+    "email": "nora.bennett@example.com",
+    "image": null
+  },
+  {
+    "id": "665a3823-1a40-4c4f-9076-3e0ccb6bf5ec",
+    "name": "Liam Rodriguez",
+    "email": "liam.rodriguez@example.com",
+    "image": null
+  },
+  {
+    "id": "338787b3-7e34-4ec5-b7f1-6984d02bacac",
+    "name": "Sofia Patel",
+    "email": "sofia.patel@example.com",
+    "image": null
+  }
+]
